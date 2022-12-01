@@ -1,0 +1,36 @@
+.imagen-pokemon{
+    width: 32px;
+    height: 32px;
+}
+
+.imagen-pokemon-menu{
+    width: 32px;
+    height: 32px;
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+ul{
+    list-style: none;
+}
+
+.fuente-pokimon{
+    font-family: 'Pokimon';
+    font-size: 16px;
+}
+
+.card-shadow:hover{
+    box-shadow: 10px 5px 5px black;
+}
+
+.padding{
+    padding: 12px;
+    text-align: center;
+}
+
+@font-face {
+    font-family: 'Pokimon';
+    src: url('resoruces/fonts/Pokemon\ Hollow.ttf');
+}
